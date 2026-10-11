@@ -1,0 +1,1020 @@
+[
+  {
+    "id": 1,
+    "name": "Standing IT band stretch",
+    "category": "Stretching",
+    "page": 1,
+    "prescription": "Hold 30–60 sec; repeat 2 times",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 2,
+    "name": "Standing hip flexor stretch",
+    "category": "Stretching",
+    "page": 1,
+    "prescription": "Hold 30–60 sec; repeat 2 times",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 3,
+    "name": "Standing hamstring stretch",
+    "category": "Stretching",
+    "page": 1,
+    "prescription": "Hold 30–60 sec; repeat 2 times",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 4,
+    "name": "Supine piriformis stretch",
+    "category": "Stretching",
+    "page": 1,
+    "prescription": "Hold 30–60 sec; repeat 2 times",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 5,
+    "name": "Quadriceps stretch",
+    "category": "Stretching",
+    "page": 1,
+    "prescription": "Hold 30–60 sec; repeat 2 times",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 6,
+    "name": "Plantar fascia step stretch",
+    "category": "Stretching",
+    "page": 1,
+    "prescription": "Hold 30–60 sec; repeat 2 times",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 7,
+    "name": "Standing abdominal activation",
+    "category": "Warm-up & mobility",
+    "page": 2,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 8,
+    "name": "Standing hamstring stretch",
+    "category": "Warm-up & mobility",
+    "page": 2,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 9,
+    "name": "Standing piriformis stretch",
+    "category": "Warm-up & mobility",
+    "page": 2,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 10,
+    "name": "Single heel glides",
+    "category": "Warm-up & mobility",
+    "page": 2,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 11,
+    "name": "Bridge",
+    "category": "Hip & glutes",
+    "page": 3,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 12,
+    "name": "Single-leg bridge",
+    "category": "Hip & glutes",
+    "page": 3,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 13,
+    "name": "Straight-leg raise",
+    "category": "Hip & glutes",
+    "page": 3,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 14,
+    "name": "Side-lying hip abduction",
+    "category": "Hip & glutes",
+    "page": 3,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 15,
+    "name": "Side-lying hip adduction",
+    "category": "Hip & glutes",
+    "page": 4,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 16,
+    "name": "Prone hip extension",
+    "category": "Hip & glutes",
+    "page": 4,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 17,
+    "name": "Prone bent-knee hip extension",
+    "category": "Hip & glutes",
+    "page": 4,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 18,
+    "name": "Standing hamstring curls",
+    "category": "Hip & glutes",
+    "page": 4,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 19,
+    "name": "Squat",
+    "category": "Hip & glutes",
+    "page": 5,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 20,
+    "name": "Seated hip abduction with band",
+    "category": "Hip & glutes",
+    "page": 5,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 21,
+    "name": "Seated hip adduction with ball",
+    "category": "Hip & glutes",
+    "page": 5,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 22,
+    "name": "Reverse clamshell",
+    "category": "Balance & coordination",
+    "page": 6,
+    "prescription": "3 sets × 10–15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 23,
+    "name": "Hip hikes",
+    "category": "Balance & coordination",
+    "page": 6,
+    "prescription": "3 sets × 10–15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 24,
+    "name": "Heel taps",
+    "category": "Balance & coordination",
+    "page": 6,
+    "prescription": "3 sets × 10–15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 25,
+    "name": "Airplanes",
+    "category": "Balance & coordination",
+    "page": 6,
+    "prescription": "3 sets × 10–15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 26,
+    "name": "Band dorsiflexion",
+    "category": "Ankle & foot",
+    "page": 7,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 27,
+    "name": "Band plantarflexion",
+    "category": "Ankle & foot",
+    "page": 7,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 28,
+    "name": "Band inversion",
+    "category": "Ankle & foot",
+    "page": 7,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 29,
+    "name": "Band eversion",
+    "category": "Ankle & foot",
+    "page": 7,
+    "prescription": "3 sets × 15",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 30,
+    "name": "Lower trunk rotations",
+    "category": "Stretching",
+    "page": 8,
+    "prescription": "3 × 30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 31,
+    "name": "Seated hamstring stretch with stool",
+    "category": "Stretching",
+    "page": 8,
+    "prescription": "3 × 30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 32,
+    "name": "Seated piriformis and hip stretch",
+    "category": "Stretching",
+    "page": 8,
+    "prescription": "3 × 30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 33,
+    "name": "Wall hip flexor stretch",
+    "category": "Stretching",
+    "page": 9,
+    "prescription": "3 × 30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 34,
+    "name": "Kneeling single-leg glute press",
+    "category": "Core & back",
+    "page": 10,
+    "prescription": "15–30 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 35,
+    "name": "Rotational twists",
+    "category": "Core & back",
+    "page": 10,
+    "prescription": "15–30 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 36,
+    "name": "Standard crunch",
+    "category": "Core & back",
+    "page": 10,
+    "prescription": "15–30 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 37,
+    "name": "Clam shells",
+    "category": "Core & back",
+    "page": 10,
+    "prescription": "15–30 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 38,
+    "name": "Bicycle kicks",
+    "category": "Core & back",
+    "page": 10,
+    "prescription": "15–30 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 39,
+    "name": "Side crunches",
+    "category": "Core & back",
+    "page": 11,
+    "prescription": "20 reps or 30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 40,
+    "name": "Plank",
+    "category": "Core & back",
+    "page": 11,
+    "prescription": "20 reps or 30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 41,
+    "name": "Advanced plank",
+    "category": "Core & back",
+    "page": 11,
+    "prescription": "20 reps or 30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 42,
+    "name": "Prone single-leg glute press",
+    "category": "Core & back",
+    "page": 12,
+    "prescription": "10–20 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 43,
+    "name": "Prone single-leg lifts",
+    "category": "Core & back",
+    "page": 12,
+    "prescription": "10–20 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 44,
+    "name": "Side-lying glute-med clam shells",
+    "category": "Core & back",
+    "page": 12,
+    "prescription": "10–20 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 45,
+    "name": "Side-lying glute-med lateral raises",
+    "category": "Core & back",
+    "page": 12,
+    "prescription": "10–20 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 46,
+    "name": "Kneeling single-leg lifts",
+    "category": "Core & back",
+    "page": 12,
+    "prescription": "10–20 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 47,
+    "name": "Supine hamstring stretch",
+    "category": "Stretching",
+    "page": 13,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 48,
+    "name": "IT band stretch lying down",
+    "category": "Stretching",
+    "page": 13,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 49,
+    "name": "Standing quad stretch",
+    "category": "Stretching",
+    "page": 13,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 50,
+    "name": "Seated IT band and hip stretch",
+    "category": "Stretching",
+    "page": 13,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 51,
+    "name": "Lying hip flexor stretch",
+    "category": "Stretching",
+    "page": 13,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 52,
+    "name": "Hip rotator stretch",
+    "category": "Piriformis",
+    "page": 14,
+    "prescription": "30–40 sec or 6–10 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 53,
+    "name": "Abdominal strengthening",
+    "category": "Piriformis",
+    "page": 14,
+    "prescription": "30–40 sec or 6–10 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 54,
+    "name": "Ankle-over-knee stretch",
+    "category": "Piriformis",
+    "page": 15,
+    "prescription": "15–30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 55,
+    "name": "Ankle-over-knee with raised opposite leg",
+    "category": "Piriformis",
+    "page": 15,
+    "prescription": "15–30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 56,
+    "name": "Push-up position stretch",
+    "category": "Piriformis",
+    "page": 15,
+    "prescription": "15–30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 57,
+    "name": "Supine piriformis stretch with straight leg",
+    "category": "Piriformis",
+    "page": 16,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 58,
+    "name": "Long adductor stretch",
+    "category": "Piriformis",
+    "page": 16,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 59,
+    "name": "Short adductor butterfly stretch",
+    "category": "Piriformis",
+    "page": 16,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 60,
+    "name": "Hip extension stretch",
+    "category": "Piriformis",
+    "page": 16,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 61,
+    "name": "Glute foam rolling",
+    "category": "Piriformis",
+    "page": 17,
+    "prescription": "10–20 sec or reps as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 62,
+    "name": "Jump squats",
+    "category": "Piriformis",
+    "page": 17,
+    "prescription": "10–20 sec or reps as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 63,
+    "name": "Resistance band leg stretch",
+    "category": "Piriformis",
+    "page": 17,
+    "prescription": "10–20 sec or reps as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 64,
+    "name": "Side-lying clam exercise",
+    "category": "Piriformis",
+    "page": 18,
+    "prescription": "15 reps",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 65,
+    "name": "Whole-body piriformis stretch",
+    "category": "Piriformis",
+    "page": 19,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 66,
+    "name": "Standing hamstring stretch (stool)",
+    "category": "Piriformis",
+    "page": 19,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 67,
+    "name": "Knee-to-chest stretch",
+    "category": "Piriformis",
+    "page": 19,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 68,
+    "name": "Opposite-side knee-to-chest stretch",
+    "category": "Piriformis",
+    "page": 19,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 69,
+    "name": "Lower-leg knee-to-chest variation",
+    "category": "Piriformis",
+    "page": 19,
+    "prescription": "30 sec",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 70,
+    "name": "Seated crossed-leg extension",
+    "category": "Piriformis & yoga",
+    "page": 20,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 71,
+    "name": "Crossed-leg squat",
+    "category": "Piriformis & yoga",
+    "page": 20,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 72,
+    "name": "Extended-leg stretch",
+    "category": "Piriformis & yoga",
+    "page": 20,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 73,
+    "name": "Pigeon pose",
+    "category": "Piriformis & yoga",
+    "page": 20,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 74,
+    "name": "Bridge pose",
+    "category": "Piriformis & yoga",
+    "page": 20,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 75,
+    "name": "Happy baby pose",
+    "category": "Piriformis & yoga",
+    "page": 20,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 76,
+    "name": "Cobbler pose",
+    "category": "Piriformis & yoga",
+    "page": 21,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 77,
+    "name": "Locust pose",
+    "category": "Piriformis & yoga",
+    "page": 21,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 78,
+    "name": "Thunderbolt pose variation",
+    "category": "Piriformis & yoga",
+    "page": 21,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 79,
+    "name": "Spinal twist",
+    "category": "Piriformis & yoga",
+    "page": 21,
+    "prescription": "See source page",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 80,
+    "name": "Revolved triangle pose",
+    "category": "Piriformis & yoga",
+    "page": 22,
+    "prescription": "10–20 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 81,
+    "name": "Clam exercise",
+    "category": "Piriformis & yoga",
+    "page": 22,
+    "prescription": "10–20 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 82,
+    "name": "Resisted hip stand",
+    "category": "Piriformis & yoga",
+    "page": 22,
+    "prescription": "10–20 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 83,
+    "name": "Knee rolling",
+    "category": "Piriformis",
+    "page": 23,
+    "prescription": "5–10 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 84,
+    "name": "Long-sit piriformis stretch",
+    "category": "Piriformis",
+    "page": 23,
+    "prescription": "5–10 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 85,
+    "name": "Supine crossed-leg stretch",
+    "category": "Piriformis",
+    "page": 23,
+    "prescription": "5–10 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 86,
+    "name": "Assisted standing glute stretch",
+    "category": "Piriformis",
+    "page": 23,
+    "prescription": "5–10 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 87,
+    "name": "Both knees to chest",
+    "category": "Piriformis",
+    "page": 23,
+    "prescription": "5–10 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 88,
+    "name": "Seated leg extension",
+    "category": "Piriformis",
+    "page": 23,
+    "prescription": "5–10 reps or as shown",
+    "notes": "Follow the original reference page for technique and any individualized instructions."
+  },
+  {
+    "id": 89,
+    "name": "Supported 90/90 psoas relaxation",
+    "category": "Psoas & Hip Flexor",
+    "page": null,
+    "prescription": "2–5 minutes, comfortable breathing",
+    "notes": "Lie on your back with calves resting on a chair, hips and knees bent about 90°. Breathe slowly into the lower ribs and abdomen; allow your lower back and hips to relax. Do not force your back flat.",
+    "origin": "New addition, not from scanned handouts",
+    "steps": [
+      "Lie on your back beside a sturdy chair.",
+      "Rest both calves on the seat with hips and knees near right angles.",
+      "Relax your shoulders and breathe slowly without forcing your spine flat."
+    ],
+    "illustration": "illustrations/psoas-89.svg"
+  },
+  {
+    "id": 90,
+    "name": "Half-kneeling hip flexor stretch with posterior pelvic tilt",
+    "category": "Psoas & Hip Flexor",
+    "page": null,
+    "prescription": "20–30 seconds per side, 2 rounds",
+    "notes": "Kneel on a padded surface with one foot forward. Gently tuck your tailbone and tighten the glute of the kneeling leg. Shift forward slightly until you feel a mild stretch at the front of that hip. Keep ribs stacked over pelvis; avoid arching the lower back.",
+    "origin": "New addition, not from scanned handouts",
+    "steps": [
+      "Place one knee on padding, opposite foot in front.",
+      "Gently tuck the tailbone and squeeze the glute of the kneeling leg.",
+      "Shift forward a few centimeters while keeping your ribs over your pelvis."
+    ],
+    "illustration": "illustrations/psoas-90.svg"
+  },
+  {
+    "id": 91,
+    "name": "Standing split-stance hip flexor stretch",
+    "category": "Psoas & Hip Flexor",
+    "page": null,
+    "prescription": "20–30 seconds per side, 2 rounds",
+    "notes": "Hold a counter for balance. Step one leg back, bend the front knee slightly, tuck your pelvis, and tighten the rear-leg glute. Keep your trunk upright and shift weight forward slightly.",
+    "origin": "New addition, not from scanned handouts",
+    "steps": [
+      "Hold a counter and step one foot behind you.",
+      "Slightly bend the front knee, tuck your pelvis, and squeeze the back glute.",
+      "Shift forward gently without arching your back."
+    ],
+    "illustration": "illustrations/psoas-91.svg"
+  },
+  {
+    "id": 92,
+    "name": "Gentle supine pelvic tilts",
+    "category": "Psoas & Hip Flexor",
+    "page": null,
+    "prescription": "8–12 slow repetitions",
+    "notes": "Lie on your back with knees bent and feet on the floor. Slowly rock the pelvis to gently flatten then release the lower back. Use a small pain-free range without pushing into symptoms.",
+    "origin": "New addition, not from scanned handouts",
+    "steps": [
+      "Lie on your back with knees bent and feet planted.",
+      "Exhale and slowly roll your pelvis to reduce the gap under your low back.",
+      "Inhale and return to neutral. Repeat in a small comfortable range."
+    ],
+    "illustration": "illustrations/psoas-92.svg"
+  },
+  {
+    "id": 93,
+    "name": "Low lunge with arm reach",
+    "category": "Psoas & Hip Flexor",
+    "page": null,
+    "prescription": "15–20 seconds per side, 2 rounds",
+    "notes": "In a comfortable half-kneeling lunge, gently tuck the pelvis and squeeze the back-leg glute. Raise the arm on the kneeling side overhead only if comfortable, keeping ribs down and avoiding a low-back arch.",
+    "origin": "New addition, not from scanned handouts",
+    "steps": [
+      "Set up a padded half-kneeling lunge.",
+      "Tuck your pelvis and engage the back-leg glute.",
+      "Reach the arm on the kneeling side overhead without flaring your ribs."
+    ],
+    "illustration": "illustrations/psoas-93.svg"
+  },
+  {
+    "id": 94,
+    "name": "Supine single-knee-to-chest, other leg supported",
+    "category": "Psoas & Hip Flexor",
+    "page": null,
+    "prescription": "15–20 seconds per side, 2 rounds",
+    "notes": "Lie on your back with both knees bent. Draw one knee toward your chest while keeping the other foot on the floor. Breathe and relax; do not force the stretch or straighten the other leg if it increases back symptoms.",
+    "origin": "New addition, not from scanned handouts",
+    "steps": [
+      "Lie on your back with both knees bent.",
+      "Bring one knee toward your chest, using hands behind the thigh.",
+      "Keep the other foot supported; release slowly and switch sides."
+    ],
+    "illustration": "illustrations/psoas-94.svg"
+  },
+  {
+    "id": 95,
+    "name": "Brisk walk to easy jog",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "2–3 minutes",
+    "notes": "Begin with brisk walking, then gradually transition to a comfortable jog. Increase effort gradually; avoid sprinting from a cold start.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Walk briskly with relaxed shoulders.",
+      "Increase cadence gradually.",
+      "Jog easily only if symptoms remain comfortable."
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Marching with arm swing",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "45–60 seconds",
+    "notes": "March tall, swinging opposite arms and lifting knees only to a comfortable height.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Stand upright and engage your trunk gently.",
+      "Alternate lifting knees while swinging opposite arms.",
+      "Keep steps rhythmic without leaning backward."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Front-to-back leg swings",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "10–12 each leg",
+    "notes": "Hold a wall or rail. Swing one leg forward and backward in a controlled, small-to-moderate range.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Hold a stable support.",
+      "Swing one leg gently forward and back.",
+      "Avoid arching the lower back; change sides."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Side-to-side leg swings",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "10–12 each leg",
+    "notes": "Hold support and swing one leg gently across the body and out to the side without twisting the trunk.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Face a sturdy support.",
+      "Swing one leg across and outward slowly.",
+      "Keep hips level and repeat on the other leg."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Walking knee hugs",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "6–8 each side",
+    "notes": "Step forward, briefly lift a knee toward your chest, then release and continue walking. Skip if it provokes sciatic symptoms.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Step forward and stand tall.",
+      "Bring one knee up gently, without rounding your back.",
+      "Release and switch sides as you walk."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Walking heel-to-glute pulls",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "6–8 each side",
+    "notes": "Walk forward, briefly bending a knee to bring heel toward buttock. Avoid forcing the knee or arching the back.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Take a slow step.",
+      "Bend the trailing knee and briefly hold the ankle only if comfortable.",
+      "Release and alternate sides."
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Lateral side steps",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "10 steps each direction",
+    "notes": "Keep knees softly bent and take controlled side steps to activate hips and glutes.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Stand with feet hip-width apart.",
+      "Step sideways, keeping knees aligned with toes.",
+      "Repeat in the other direction."
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Walking lunges, short stride",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "5–6 each side",
+    "notes": "Use a short, controlled stride and shallow depth. Hold a rail if needed; skip if knee or back pain increases.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Step forward into a short split stance.",
+      "Bend knees slightly while keeping torso upright.",
+      "Push through the front foot and alternate."
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Calf raises and ankle bounces",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "12–15 calf raises",
+    "notes": "Raise heels smoothly to warm calves and ankles; keep it low impact.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Stand near a wall for balance.",
+      "Rise onto toes and lower slowly.",
+      "Keep motion gentle, avoiding painful bouncing."
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Easy running strides",
+    "category": "Pre-Run Dynamic Warm-Up",
+    "page": null,
+    "prescription": "2 × 15–20 seconds, optional",
+    "notes": "Only when symptom-free and preparing for a faster run: accelerate smoothly to a moderate pace, not an all-out sprint.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Start at an easy jog.",
+      "Gradually increase pace to controlled moderate speed.",
+      "Walk to recover; omit if pain or tingling develops."
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Supine hamstring stretch with strap",
+    "category": "Hamstring Mobility",
+    "page": null,
+    "prescription": "20–30 seconds each side × 2",
+    "notes": "Lie on your back and raise one leg using a strap behind the thigh or foot. Keep knee slightly bent; avoid pulling into nerve tingling.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Lie on your back with one knee bent and foot supported.",
+      "Raise the other leg comfortably using a strap.",
+      "Hold a mild stretch behind thigh, then switch sides."
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Standing hamstring hinge",
+    "category": "Hamstring Mobility",
+    "page": null,
+    "prescription": "8–10 slow repetitions",
+    "notes": "With soft knees, hinge at the hips and return upright. Keep spine neutral; do not chase a deep stretch.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Stand with feet hip-width apart and knees soft.",
+      "Push hips backward while keeping back neutral.",
+      "Stand tall by engaging glutes."
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Supine active knee extension",
+    "category": "Hamstring Mobility",
+    "page": null,
+    "prescription": "8–10 each side",
+    "notes": "Lie on back, hold thigh behind knee with hip comfortably bent, slowly straighten and bend knee without provoking nerve symptoms.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Lie on your back with both knees bent.",
+      "Hold one thigh behind knee and slowly extend lower leg.",
+      "Return to bent knee and repeat, switching sides."
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Gentle sciatic nerve slider",
+    "category": "Hamstring Mobility",
+    "page": null,
+    "prescription": "5–8 gentle repetitions each side",
+    "notes": "Optional only if recommended by a clinician. Slowly extend knee while pointing toes, then bend knee while bringing toes toward shin. Never hold a nerve stretch or push into symptoms.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Lie comfortably on your back with one thigh supported.",
+      "Gently extend knee while pointing toes away.",
+      "Bend knee while flexing ankle; stop if symptoms worsen."
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Hamstring bridge heel dig",
+    "category": "Hamstring Mobility",
+    "page": null,
+    "prescription": "8–10 repetitions",
+    "notes": "Lie on your back with knees bent and heels planted. Gently dig heels into floor and lift hips a little to engage posterior chain.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Lie on your back with heels on floor.",
+      "Press heels down and lift hips a comfortable amount.",
+      "Lower slowly without arching your back."
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Hamstring isometric heel press",
+    "category": "Hamstring Mobility",
+    "page": null,
+    "prescription": "5 holds × 10 seconds each side",
+    "notes": "With knee bent and heel planted, gently press heel into floor without moving the leg. This strengthens hamstrings without aggressive stretching.",
+    "origin": "New evidence-informed general exercise addition, not from scanned handouts",
+    "steps": [
+      "Lie on your back with knees bent.",
+      "Press one heel into floor at a comfortable effort.",
+      "Hold briefly, relax, and change sides."
+    ]
+  }
+]

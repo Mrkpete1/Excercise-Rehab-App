@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Pre-Run Dynamic Warm-Up",
+    "duration": "8\u201312 min",
+    "description": "Dynamic movement before running. Start easy; avoid long static holds.",
+    "ids": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ]
+  },
+  {
+    "name": "Tight Hamstrings: Mobility & Strength",
+    "duration": "10\u201315 min",
+    "description": "Gentle mobility plus strengthening. Do not force a stretch or reproduce nerve symptoms.",
+    "ids": [
+      105,
+      106,
+      107,
+      109,
+      110
+    ]
+  },
+  {
+    "name": "Morning Back & Psoas Mobility",
+    "duration": "8\u201312 min",
+    "description": "Gentle options for stiff mornings.",
+    "ids": [
+      89,
+      92,
+      94,
+      90
+    ]
+  },
+  {
+    "name": "Piriformis & Sciatic Symptom Care",
+    "duration": "8\u201312 min",
+    "description": "Gentle options only. Avoid deep stretching if symptoms radiate.",
+    "ids": [
+      89,
+      94,
+      107
+    ]
+  },
+  {
+    "name": "Core & Running Recovery",
+    "duration": "10\u201315 min",
+    "description": "Gentle strengthening and recovery movements.",
+    "ids": [
+      91,
+      109,
+      110,
+      105
+    ]
+  },
+  {
+    "name": "After Run: Cooldown & Recovery",
+    "duration": "8\u201312 min",
+    "description": "Walk until breathing settles, then use comfortable calf, hip-flexor and hamstring mobility. Skip anything that increases radiating symptoms.",
+    "ids": [
+      105,
+      90,
+      99,
+      89,
+      92
+    ]
+  },
+  {
+    "name": "Rest Day: Gentle Mobility",
+    "duration": "10\u201315 min",
+    "description": "Low-intensity mobility, pelvic control, and easy activation. No forced stretching or painful nerve tension.",
+    "ids": [
+      89,
+      92,
+      94,
+      107,
+      109
+    ]
+  },
+  {
+    "name": "Running Day: Warm-Up + Recovery",
+    "duration": "18\u201325 min",
+    "description": "Combined pre-run and post-run sequence. Complete the dynamic warm-up before running; return to the remaining cooldown exercises afterward.",
+    "ids": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      90,
+      89
+    ]
+  }
+]
